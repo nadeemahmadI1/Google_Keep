@@ -1,0 +1,23 @@
+.main_note{
+    padding: 20px;
+    display: inline-block;
+    /* justify-content: center; */
+}
+.note{
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    box-shadow: 20px 20px 20px rgb(198, 181, 181);
+    position: relative;
+}
+.btn-delete{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(123, 161, 149);
+    position: absolute;
+    right: -15px;
+}
+.btn-delete:hover{
+    background-color: yellow;
+}

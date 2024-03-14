@@ -1,0 +1,41 @@
+.createnote {
+  font-family: sans-serif;
+  padding: 2px;
+  width: auto;
+  border: 2px solid rgb(152, 173, 30);
+  border: none;
+  border-radius: 25px;
+  height: auto;
+  position: relative;
+  box-shadow: 20px 20px 20px rgb(181, 181, 169);
+
+}
+.create-note {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 25px;
+}
+.input {
+  padding: 20px;
+  border: none;
+  border-radius: 25px;
+  width:auto;
+  min-width: 300px;
+
+}
+textarea {
+  border: none;
+  border-radius: 25px;
+  padding: 20px;
+  width: auto;
+  margin-top: 5px;
+  min-width: 300px;
+}
+.submit-button {
+position: absolute;
+bottom: -25px;
+/* right: -340px; */
+
+}

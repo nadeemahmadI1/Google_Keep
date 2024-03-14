@@ -1,0 +1,15 @@
+
+.footer_div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    height: fit-content; /* Adjust based on your preference */
+    width: 100%;
+    margin-bottom: 0;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
